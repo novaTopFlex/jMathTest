@@ -1,0 +1,11 @@
+x=:o.2
+y=:o.3
+z=:o.4
+NB. x is pi times 2
+NB. y is pi times 3
+NB. z is pi times 4
+p=o.1
+NB. o.1 is equal to pi
+X=:o.0.5
+Y=:o.0.25
+Z=:o.0.2
