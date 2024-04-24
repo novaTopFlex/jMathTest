@@ -30,3 +30,4 @@ importx=:require
 pwd=:'~'
 cwd=:pwd
 path=:'~bin'
+filedemo=:'J' fappend 'J.txt'
